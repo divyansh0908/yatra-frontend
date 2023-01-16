@@ -1,7 +1,7 @@
 {
   "name": "yatra_frontend",
   "version": "0.1.0",
-  "homepage": "https://divyansh0908.github.io/aztec-webapp",
+  "homepage": "https://divyansh0908.github.io/yatra-frontend",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
